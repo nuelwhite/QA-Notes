@@ -1,0 +1,19 @@
+
+Kickstarting the QA Essentials Series! 🚀 
+
+Welcome to Day 1 of our 30-day journey into posting software quality assurance essentials
+
+QA is often misunderstood as just 'testing,' but it’s so much more. It ensures that every product meets high-quality standards and delivers value to users. 
+
+QA is the process of evaluating a software’s quality, functionality, and performance to ensure that it meets the user requirements and expectations.
+
+Software Quality Assurance (QA) isn’t just about finding bugs; it’s about delivering quality from the start. QA focuses on processes to prevent defects, while testing identifies issues in the product. Together, they ensure reliability and value for users.
+
+Here’s the distinction: 
+-  QA focuses on preventing defects by improving processes. 
+- Testing identifies defects by assessing the product. 
+
+Together, they form the backbone of reliable software delivery. 
+
+Over the next 30 days, I’ll share QA essentials to help you level up your understanding and application of quality assurance practices. 
+Stay tuned for tomorrow’s post on the difference between QA, QC, and Testing! 
